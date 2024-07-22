@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "ingredients": ["200g spaghetti", "100g pancetta", "2 large eggs", "50g pecorino cheese", "50g parmesan", "2 cloves garlic", "50g unsalted butter", "Salt", "Black pepper"],
+    "instructions": "1. Boil spaghetti. 2. Fry pancetta. 3. Mix eggs and cheese. 4. Combine pasta and pancetta with egg mixture. 5. Season and serve.",
+    "cooking_time": "20 minutes",
+    "number_of_portions": 4,
+    "nutrimental_information": {
+      "calories": 500,
+      "protein": "20g",
+      "carbohydrates": "50g",
+      "fat": "20g"
+    },
+    "dish_photo": "https://example.com/photos/spaghetti_carbonara.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Chicken Alfredo",
+    "ingredients": ["200g fettuccine", "2 chicken breasts", "2 cups heavy cream", "100g parmesan cheese", "2 cloves garlic", "Salt", "Black pepper", "2 tbsp olive oil"],
+    "instructions": "1. Cook fettuccine. 2. Sauté chicken. 3. Prepare Alfredo sauce. 4. Combine pasta, chicken, and sauce. 5. Serve.",
+    "cooking_time": "25 minutes",
+    "number_of_portions": 4,
+    "nutrimental_information": {
+      "calories": 600,
+      "protein": "30g",
+      "carbohydrates": "40g",
+      "fat": "30g"
+    },
+    "dish_photo": "https://example.com/photos/chicken_alfredo.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Vegetable Stir Fry",
+    "ingredients": ["1 bell pepper", "1 carrot", "1 broccoli", "2 cloves garlic", "2 tbsp soy sauce", "1 tbsp olive oil", "1 tbsp sesame oil"],
+    "instructions": "1. Chop vegetables. 2. Sauté garlic. 3. Add vegetables. 4. Add soy sauce and sesame oil. 5. Cook until tender and serve.",
+    "cooking_time": "15 minutes",
+    "number_of_portions": 2,
+    "nutrimental_information": {
+      "calories": 150,
+      "protein": "5g",
+      "carbohydrates": "15g",
+      "fat": "10g"
+    },
+    "dish_photo": "https://example.com/photos/vegetable_stir_fry.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Beef Tacos",
+    "ingredients": ["200g ground beef", "1 onion", "2 cloves garlic", "2 tbsp taco seasoning", "8 taco shells", "1 tomato", "1 cup shredded lettuce", "1 cup shredded cheese"],
+    "instructions": "1. Cook beef with onion and garlic. 2. Add taco seasoning. 3. Fill taco shells with beef mixture. 4. Top with tomato, lettuce, and cheese. 5. Serve.",
+    "cooking_time": "20 minutes",
+    "number_of_portions": 4,
+    "nutrimental_information": {
+      "calories": 300,
+      "protein": "20g",
+      "carbohydrates": "25g",
+      "fat": "15g"
+    },
+    "dish_photo": "https://example.com/photos/beef_tacos.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Pancakes",
+    "ingredients": ["1 cup flour", "1 cup milk", "1 egg", "2 tbsp sugar", "1 tsp baking powder", "1 tsp vanilla extract", "Pinch of salt", "Butter for cooking"],
+    "instructions": "1. Mix dry ingredients. 2. Add wet ingredients. 3. Cook on a griddle. 4. Serve with syrup.",
+    "cooking_time": "15 minutes",
+    "number_of_portions": 4,
+    "nutrimental_information": {
+      "calories": 200,
+      "protein": "5g",
+      "carbohydrates": "30g",
+      "fat": "5g"
+    },
+    "dish_photo": "https://example.com/photos/pancakes.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Greek Salad",
+    "ingredients": ["2 tomatoes", "1 cucumber", "1 red onion", "100g feta cheese", "50g black olives", "2 tbsp olive oil", "1 tbsp red wine vinegar", "Salt", "Oregano"],
+    "instructions": "1. Chop vegetables. 2. Mix dressing. 3. Combine vegetables, cheese, and olives. 4. Add dressing and serve.",
+    "cooking_time": "10 minutes",
+    "number_of_portions": 2,
+    "nutrimental_information": {
+      "calories": 250,
+      "protein": "10g",
+      "carbohydrates": "15g",
+      "fat": "20g"
+    },
+    "dish_photo": "https://example.com/photos/greek_salad.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Tomato Soup",
+    "ingredients": ["1 can tomatoes", "1 onion", "2 cloves garlic", "2 cups vegetable broth", "1 tbsp olive oil", "Salt", "Pepper", "Basil for garnish"],
+    "instructions": "1. Sauté onion and garlic. 2. Add tomatoes and broth. 3. Simmer and blend. 4. Season and serve.",
+    "cooking_time": "30 minutes",
+    "number_of_portions": 4,
+    "nutrimental_information": {
+      "calories": 100,
+      "protein": "2g",
+      "carbohydrates": "20g",
+      "fat": "3g"
+    },
+    "dish_photo": "https://example.com/photos/tomato_soup.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Grilled Cheese Sandwich",
+    "ingredients": ["2 slices bread", "2 slices cheese", "Butter for cooking"],
+    "instructions": "1. Butter bread. 2. Add cheese. 3. Cook on griddle until golden. 4. Serve.",
+    "cooking_time": "10 minutes",
+    "number_of_portions": 1,
+    "nutrimental_information": {
+      "calories": 300,
+      "protein": "10g",
+      "carbohydrates": "30g",
+      "fat": "15g"
+    },
+    "dish_photo": "https://example.com/photos/grilled_cheese_sandwich.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Caesar Salad",
+    "ingredients": ["1 romaine lettuce", "1/2 cup croutons", "1/4 cup parmesan cheese", "Caesar dressing"],
+    "instructions": "1. Chop lettuce. 2. Add croutons and cheese. 3. Toss with dressing. 4. Serve.",
+    "cooking_time": "10 minutes",
+    "number_of_portions": 2,
+    "nutrimental_information": {
+      "calories": 200,
+      "protein": "5g",
+      "carbohydrates": "15g",
+      "fat": "15g"
+    },
+    "dish_photo": "https://example.com/photos/caesar_salad.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Scrambled Eggs",
+    "ingredients": ["3 eggs", "2 tbsp milk", "Salt", "Pepper", "Butter for cooking"],
+    "instructions": "1. Beat eggs and milk. 2. Cook in butter. 3. Season and serve.",
+    "cooking_time": "5 minutes",
+    "number_of_portions": 1,
+    "nutrimental_information": {
+      "calories": 200,
+      "protein": "12g",
+      "carbohydrates": "2g",
+      "fat": "15g"
+    },
+    "dish_photo": "https://example.com/photos/scrambled_eggs.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Chicken Curry",
+    "ingredients": ["2 chicken breasts", "1 onion", "2 cloves garlic", "1 tbsp curry powder", "1 can coconut milk", "2 tbsp olive oil", "Salt", "Pepper"],
+    "instructions": "1. Sauté onion and garlic. 2. Add chicken and curry powder. 3. Add coconut milk. 4. Simmer and serve.",
+    "cooking_time": "30 minutes",
+    "number_of_portions": 4,
+    "nutrimental_information": {
+      "calories": 400,
+      "protein": "25g",
+      "carbohydrates": "10g",
+      "fat": "30g"
+    },
+    "dish_photo": "https://example.com/photos/chicken_curry.jpg"
+  }
+]
